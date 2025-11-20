@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <string.h>
+void main()
+{
+    char name[10]="madhura";
+    printf("%c",name[7]);//acess
+    printf("length of string is %d\n",strlen(name))
+}

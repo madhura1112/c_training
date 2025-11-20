@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+
+void main()
+{
+    char des [180]= "we are super kids";
+    char se[10] ="kids"
+
+    if((strstr(des,se)) !=NULL)
+    printf("found");
+    else 
+   Printf("not found");
+
+}

@@ -1,0 +1,7 @@
+#include <stdio.h>
+void mainj()
+{
+    int arr{4}={54,76,87,65};
+    int *p=arr;
+    printf("%d",*p);
+}
