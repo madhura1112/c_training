@@ -12,6 +12,6 @@ void main()
 
 
 int arr[3]={54,76,89};
-int n=3
+int n=3;
 printf("%d",sub_arr(arr,n));
 }
