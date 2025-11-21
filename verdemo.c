@@ -15,6 +15,6 @@ va_end(list);
 }
 void main ()
 {
-    display  (3,23,54,78);
+    display  (3,1,2,5);
     
 }
