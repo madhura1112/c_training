@@ -11,10 +11,10 @@ return 0;
 }
 void main ()
 {
-    int arr[7]={34,65,87,98,45,90,34}
+    int arr[7]={34,65,87,98,45,90,34};
     int n = 7;
     int key;
-    printf("what are searching?  ")
+    printf("what are searching?  ");
     scanf ("%d", &key);
     printf("%d", search(arr,key,n));
     }
